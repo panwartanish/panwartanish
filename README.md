@@ -56,7 +56,7 @@ I build:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panwartanish&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=panwartanish&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
