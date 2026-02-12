@@ -22,7 +22,7 @@ I believe in building systems that are:
 
 ## 🏗 Founder – NOX
 
-**NOX** is my independent web development and digital solutions initiative.
+**NOX** is my web development and digital solutions initiative.
 
 At NOX, I work with:
 - Small businesses
