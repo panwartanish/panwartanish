@@ -85,8 +85,9 @@ Focus:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/panwartanish
-- LinkedIn: (Add your LinkedIn link)
-- Portfolio/Website: (Add NOX website link if live)
+- LinkedIn: https://www.linkedin.com/in/tanish-panwar-706734381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Instagram: https://www.instagram.com/_saini.tanish/
+- Portfolio/Website: https://buildwithnox.framer.website/
 
 ---
 
